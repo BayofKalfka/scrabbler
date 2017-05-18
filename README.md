@@ -1,4 +1,4 @@
-# This is a java solution to Words with Friends Problem implemented by Xiongfeng Hu
+# scrabbler
 
 ## Solution Statement
 
